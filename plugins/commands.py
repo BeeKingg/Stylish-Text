@@ -15,7 +15,7 @@ async def start(c, m):
 
 💡 ** Saya adalah Bot Font Bergaya**
 
-`I can help you to get stylish fonts. Just send me some text and see magic.`
+`Saya dapat membantu Anda untuk mendapatkan font bergaya. Kirimi saya beberapa teks dan lihat keajaiban.`
 
 **👲 Dikelola Oleh:** ▷ {owner.mention(style='md')}
 """
@@ -27,7 +27,7 @@ async def start(c, m):
             InlineKeyboardButton('Channel 📢', url=f"https://t.me/hanyabotferi")
             ],[
             InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/https://t.me/hanyabotferi/35"),
+            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/hanyabotferi/35"),
             ],[
             InlineKeyboardButton('⚜️ Follow Instagram ⚜️', url=f"https://instagram.com/ferikunn")
         ]
