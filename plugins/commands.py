@@ -13,24 +13,23 @@ async def start(c, m):
     # start text
     text = f"""Hey! {m.from_user.mention(style='md')},
 
-💡 ** I am Stylish Font Bot**
+💡 ** Saya adalah Bot Font Bergaya**
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-**👲 Maintained By:** ▷ {owner.mention(style='md')}
+**👲 Dikelola Oleh:** ▷ {owner.mention(style='md')}
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('👥 Group', url=f"https://t.me/iZaute/5"),
-            InlineKeyboardButton('Channel 📢', url=f"https://t.me/iZaute/6")
+            InlineKeyboardButton('👥 Group', url=f"https://t.me/masukajaudhh"),
+            InlineKeyboardButton('Channel 📢', url=f"https://t.me/hanyabotferi")
             ],[
             InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/iZaute/8"),
-            InlineKeyboardButton('GitHup 🤣', url=f"https://githup.com/ZauteKm")
+            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/https://t.me/hanyabotferi/35"),
             ],[
-            InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com/c/ZauteKm")
+            InlineKeyboardButton('⚜️ Follow Instagram ⚜️', url=f"https://instagram.com/ferikunn")
         ]
     ]
     await m.reply_text(
