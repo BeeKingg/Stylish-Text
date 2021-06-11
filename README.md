@@ -12,7 +12,7 @@ This is a telegram bot help you to get stylish fonts and text.
 
 - `API_KEY:` Get this value from [my.telegram.org](https://my.telegram.org) or [@fexsupport_bot](https://t.me/fexsupport_bot)
 
-- `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
+- `BOT_TOKEN:` Get the bot token from [@Bot Father](https://t.me/BotFather)
 
 - `OWNER_ID:` Get your user id from [@TanteJisoo_Bot](https://t.me/TanteJisoo_Bot)
 
