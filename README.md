@@ -19,5 +19,5 @@ This is a telegram bot help you to get stylish fonts and text.
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ferikunn/Stylish-Text-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeeKingg/Stylish-Text)
 
